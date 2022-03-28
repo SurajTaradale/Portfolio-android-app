@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Academic">
+    <LinearLayout
+        android:id="@+id/hello"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="30dp"
+            android:fontFamily="sans-serif-condensed-light"
+            android:text="@string/suraj_taradale"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="22dp"
+            android:fontFamily="sans-serif-condensed-light"
+            android:text="@string/developer_2020"
+            android:textColor="@color/beforeBtn"
+            android:textSize="12sp"
+            android:textStyle="normal|bold"
+            />
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="25dp"
+            android:gravity="center"
+            android:shrinkColumns="1"
+            android:stretchColumns="*">
+
+            <TableRow android:layout_marginTop="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/graduation"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:lineSpacingExtra="8sp"
+                    android:text="@string/education"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:padding="10dp"/>
+            </TableRow>
+
+            <TableRow android:layout_marginTop="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/puc_ii"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:lineSpacingExtra="8sp"
+                    android:text="@string/puc"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:padding="10dp"/>
+            </TableRow>
+
+            <TableRow android:layout_marginTop="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/sslc"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:lineSpacingExtra="8sp"
+                    android:text="@string/sslc_education"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:padding="10dp"/>
+            </TableRow>
+
+
+        </TableLayout>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

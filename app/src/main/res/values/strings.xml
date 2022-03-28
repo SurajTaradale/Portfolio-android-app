@@ -1,0 +1,46 @@
+<resources>
+
+    <string name="app_name">Suraj Taradale</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_me">About Me</string>
+    <string name="back">back</string>
+    <string name="skills">Skills</string>
+    <string name="certification">Certification</string>
+    <string name="_75">75%</string>
+    <string name="hi_i_am">Hi, I am</string>
+    <string name="todo">TODO</string>
+    <string name="suraj_taradale">Suraj Taradale</string>
+    <string name="download_resume">Download Resume</string>
+    <string name="personal_website">Personal Website</string>
+    <string name="hire_me">Hire Me</string>
+    <string name="sql">SQL</string>
+    <string name="_70">70%</string>
+    <string name="mongodb">MongoDB</string>
+    <string name="_50">50%</string>
+    <string name="hobbies">Playing sports cricket,football\n\n Playing chess and solving puzzle games.\n \n Reading and writing books and articles.</string>
+    <string name="html">HTML</string>
+    <string name="_95">95%</string>
+    <string name="_80">80%</string>
+    <string name="css">CSS</string>
+    <string name="reactjs">ReactJS</string>
+    <string name="hello">Hello, I\'m Suraj Taradale, and I focus on web development and web design. I Graduated from Visvesvaraya Technological University (VTU). I completed training on full stack development course at Kodnest Technology\'s  and am certified in FreeCodeCamp\'s JavaScript course.</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="bootstrap">Bootstrap</string>
+    <string name="material_ui">Material-UI</string>
+    <string name="_60">60%</string>
+
+    <string name="exce">I am a web developer and designer and a full stack developer at Estomi Technology Pvt Ltd. I worked on tussom product and am familiar with HTML, CSS, JavaScript, Perl, SQL, Android, Reactjs. I have knowledge of ITSM and I have a certificate on Front End Development Libraries, JavaScript Algorithms and Data Structures, Responsive Web Design and I Completed full stack development course at Kodnest.</string>
+    <string name="developer_2020">Developer-2020</string>
+    <string name="graduation">Graduation</string>
+    <string name="education">B.E(CSE) From VTU University Belagavi, 2020 with 6.81 CGPA</string>
+    <string name="puc_ii">PUC II</string>
+    <string name="puc">Pre-University Education Board, Bangalore, 2016 with 60.5%.</string>
+    <string name="sslc">SSLC</string>
+    <string name="sslc_education">Karnataka Board Bangalore, 2014 with 80.96%.</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="javascript">Javascript</string>
+
+
+</resources>
